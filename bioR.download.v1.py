@@ -89,8 +89,4 @@ if __name__=="__main__":
     })
     pks_tab.to_csv(outdir + '/' + 'biocR.urls.csv')
 
-
-    #下载包
-    #想要获取完整代码，请在留言处留邮箱地址
-    print("完成下载!")
     sys.exit(0)
